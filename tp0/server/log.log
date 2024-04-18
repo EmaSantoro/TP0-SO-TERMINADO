@@ -1,0 +1,76 @@
+[INFO] 01:51:49:759 Servidor/(5568:5568): Servidor listo para recibir al cliente
+[DEBUG] 01:51:49:759 Servidor/(5568:5568): Servidor listo para recibir al cliente
+[INFO] 01:52:05:826 Servidor/(5568:5568): Se conecto un cliente!
+[INFO] 01:52:05:826 Servidor/(5568:5568): Me llego el mensaje EMA
+[ERROR] 01:52:05:826 Servidor/(5568:5568): el cliente se desconecto. Terminando servidor
+[INFO] 01:54:05:549 Servidor/(5886:5886): Servidor listo para recibir al cliente
+[DEBUG] 01:54:05:549 Servidor/(5886:5886): Servidor listo para recibir al cliente
+[INFO] 01:54:28:434 Servidor/(5886:5886): Se conecto un cliente!
+[INFO] 01:54:28:434 Servidor/(5886:5886): Me llego el mensaje EMA
+[ERROR] 01:54:28:435 Servidor/(5886:5886): el cliente se desconecto. Terminando servidor
+[INFO] 01:55:42:688 Servidor/(6226:6226): Servidor listo para recibir al cliente
+[DEBUG] 01:55:42:688 Servidor/(6226:6226): Servidor listo para recibir al cliente
+[INFO] 01:55:54:575 Servidor/(6226:6226): Se conecto un cliente!
+[INFO] 01:55:54:575 Servidor/(6226:6226): Me llego el mensaje MALE TE AMO
+[ERROR] 01:55:54:575 Servidor/(6226:6226): el cliente se desconecto. Terminando servidor
+[INFO] 02:20:17:357 Servidor/(2134:2134): Servidor listo para recibir al cliente
+[DEBUG] 02:20:17:358 Servidor/(2134:2134): Servidor listo para recibir al cliente
+[INFO] 02:20:56:520 Servidor/(2134:2134): Se conecto un cliente!
+[INFO] 02:20:56:520 Servidor/(2134:2134): Me llego el mensaje MALE TE AMO
+[ERROR] 02:20:56:520 Servidor/(2134:2134): el cliente se desconecto. Terminando servidor
+[INFO] 02:21:27:873 Servidor/(2528:2528): Servidor listo para recibir al cliente
+[DEBUG] 02:21:27:873 Servidor/(2528:2528): Servidor listo para recibir al cliente
+[INFO] 02:21:40:004 Servidor/(2528:2528): Se conecto un cliente!
+[INFO] 02:21:40:004 Servidor/(2528:2528): Me llego el mensaje Lauty putazo
+[ERROR] 02:21:40:004 Servidor/(2528:2528): el cliente se desconecto. Terminando servidor
+[INFO] 02:32:08:419 Servidor/(2945:2945): Servidor listo para recibir al cliente
+[DEBUG] 02:32:08:419 Servidor/(2945:2945): Servidor listo para recibir al cliente
+[INFO] 02:32:54:905 Servidor/(3120:3120): Servidor listo para recibir al cliente
+[DEBUG] 02:32:54:905 Servidor/(3120:3120): Servidor listo para recibir al cliente
+[INFO] 02:46:27:685 Servidor/(3467:3467): Servidor listo para recibir al cliente
+[DEBUG] 02:46:27:686 Servidor/(3467:3467): Servidor listo para recibir al cliente
+[INFO] 02:52:15:936 Servidor/(3859:3859): Servidor listo para recibir al cliente
+[DEBUG] 02:52:15:936 Servidor/(3859:3859): Servidor listo para recibir al cliente
+[INFO] 02:52:37:494 Servidor/(3859:3859): Se conecto un cliente!
+[INFO] 02:52:37:494 Servidor/(3859:3859): Me llego el mensaje Hola servidor soy el cliente!
+[INFO] 02:52:44:300 Servidor/(3859:3859): Me llegaron los siguientes valores:
+
+[INFO] 02:52:44:300 Servidor/(3859:3859): 
+[ERROR] 02:52:44:300 Servidor/(3859:3859): el cliente se desconecto. Terminando servidor
+[INFO] 02:55:07:873 Servidor/(4388:4388): Servidor listo para recibir al cliente
+[DEBUG] 02:55:07:873 Servidor/(4388:4388): Servidor listo para recibir al cliente
+[INFO] 02:55:37:843 Servidor/(4388:4388): Se conecto un cliente!
+[INFO] 02:55:37:843 Servidor/(4388:4388): Me llego el mensaje Hola servidor soy el cliente!
+[INFO] 02:55:39:641 Servidor/(4388:4388): Me llegaron los siguientes valores:
+
+[INFO] 02:55:39:641 Servidor/(4388:4388): 
+[ERROR] 02:55:39:642 Servidor/(4388:4388): el cliente se desconecto. Terminando servidor
+[INFO] 11:50:20:666 Servidor/(2133:2133): Servidor listo para recibir al cliente
+[DEBUG] 11:50:20:678 Servidor/(2133:2133): Servidor listo para recibir al cliente
+[INFO] 11:50:48:725 Servidor/(2133:2133): Se conecto un cliente!
+[INFO] 11:50:48:725 Servidor/(2133:2133): Me llego el mensaje Hola servidor soy el cliente!
+[INFO] 11:50:49:984 Servidor/(2133:2133): Me llegaron los siguientes valores:
+
+[INFO] 11:50:49:984 Servidor/(2133:2133): 
+[ERROR] 11:50:49:985 Servidor/(2133:2133): el cliente se desconecto. Terminando servidor
+[INFO] 11:51:23:750 Servidor/(2525:2525): Servidor listo para recibir al cliente
+[DEBUG] 11:51:23:750 Servidor/(2525:2525): Servidor listo para recibir al cliente
+[INFO] 11:51:52:245 Servidor/(2525:2525): Se conecto un cliente!
+[INFO] 11:51:52:245 Servidor/(2525:2525): Me llego el mensaje Hola servidor soy el cliente!
+[INFO] 11:52:01:755 Servidor/(2525:2525): Me llegaron los siguientes valores:
+
+[INFO] 11:52:01:756 Servidor/(2525:2525): hola
+[INFO] 11:52:01:756 Servidor/(2525:2525): me llamo
+[INFO] 11:52:01:756 Servidor/(2525:2525): ema
+[INFO] 11:52:01:756 Servidor/(2525:2525): 
+[ERROR] 11:52:01:756 Servidor/(2525:2525): el cliente se desconecto. Terminando servidor
+[INFO] 18:39:11:920 Servidor/(4934:4934): Servidor listo para recibir al cliente
+[DEBUG] 18:39:11:954 Servidor/(4934:4934): Servidor listo para recibir al cliente
+[INFO] 18:39:31:941 Servidor/(4934:4934): Se conecto un cliente!
+[INFO] 18:39:31:943 Servidor/(4934:4934): Me llego el mensaje Hola servidor soy el cliente!
+[INFO] 18:39:53:872 Servidor/(4934:4934): Me llegaron los siguientes valores:
+
+[INFO] 18:39:53:873 Servidor/(4934:4934): mensaje a mandar es que santi se la come
+[INFO] 18:39:53:873 Servidor/(4934:4934): y tu vieja a mordiscones
+[INFO] 18:39:53:873 Servidor/(4934:4934): 
+[ERROR] 18:39:53:882 Servidor/(4934:4934): el cliente se desconecto. Terminando servidor
